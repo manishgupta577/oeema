@@ -7,6 +7,7 @@ import { Fade } from "react-reveal";
 import "./ContactComponent.css";
 import { greeting, contactPageData } from "../../portfolio.js";
 import { style } from "glamor";
+import { Link } from "react-router-dom";
 
 const ContactData = contactPageData.contactSection;
 const blogSection = contactPageData.blogSection;
@@ -50,7 +51,7 @@ function Contact(props) {
               <SocialMedia />
               <br />
               <br />
-              <a {...styles} className="general-btn" href={greeting.resumeLink}>
+              <a {...styles} href="/resume.pdf" download="Manish's Resume" className="general-btn" >
                 See my Resume
               </a>
             </div>
