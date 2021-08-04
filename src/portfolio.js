@@ -417,26 +417,16 @@ const projects = {
     {
       id: "4",
       name: "personal-portfolio",
-      url: "https://github.com/harikanani/personal-portfolio",
+      url: "https://610a63d063736fc7bcb4fff9--condescending-engelbart-8293d6.netlify.app/#/home",
       description:
         "this spresent portfolio site which you are on ..",
         languages: [
-          {
-            name: "JavaScript",
-            iconifyClass: "logos-javascript",
-          },
+        
           {
             name: "ReactJS",
             iconifyClass: "logos-react",
           },
-          {
-            name: "HTML5",
-            iconifyClass: "logos-html-5",
-          },
-          {
-            name: "CSS3",
-            iconifyClass: "logos-css-3",
-          },
+         
         ],
     },
     {
