@@ -417,7 +417,7 @@ const projects = {
     {
       id: "4",
       name: "personal-portfolio",
-      url: "https://610a63d063736fc7bcb4fff9--condescending-engelbart-8293d6.netlify.app/#/home",
+      url: "https://condescending-engelbart-8293d6.netlify.app",
       description:
         "this spresent portfolio site which you are on ..",
         languages: [
