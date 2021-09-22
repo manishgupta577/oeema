@@ -349,6 +349,30 @@ const projects = {
         },
       ],
     },
+        {
+      id: "9",
+      name: "Get Social",
+      url: "https://radiant-oasis-48100.herokuapp.com/",
+      description: "This is a full stack website using react,redux,nodejs,express and mongodb ,fully quipped with all the nescessary requirements.",
+      languages: [
+        {
+          name: "NODEJS",
+          iconifyClass: "logos-mongodb",
+        },
+        {
+          name: "REACT",
+          iconifyClass: "logos-react",
+        },
+        {
+          name: "NODEJS",
+          iconifyClass: "logos-nodejs",
+        },
+        {
+          name: "EXPRESS",
+          iconifyClass: "logos-express",
+        },
+      ],
+    },
     {
       id: "1",
       name: "Portfolio",
